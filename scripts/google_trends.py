@@ -10,7 +10,7 @@ keywords = ["elbil", "Tesla", "begagnad elbil"]
 # Build request
 pytrends.build_payload(
     keywords,
-    timeframe='today 3-m',
+    timeframe='2026-02-16 2026-06-05',
     geo='SE'
 )
 
