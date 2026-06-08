@@ -24,4 +24,4 @@ for file_path in files:
         blob_client.upload_blob(data, overwrite=True)
 
     print(f"{blob_name} uploaded successfully!")
-    
+
